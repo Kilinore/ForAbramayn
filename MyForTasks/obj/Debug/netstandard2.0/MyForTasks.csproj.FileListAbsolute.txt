@@ -1,0 +1,9 @@
+C:\Users\banan\Desktop\MyForTasks\MyForTasks\bin\Debug\netstandard2.0\MyForTasks.deps.json
+C:\Users\banan\Desktop\MyForTasks\MyForTasks\bin\Debug\netstandard2.0\MyForTasks.dll
+C:\Users\banan\Desktop\MyForTasks\MyForTasks\bin\Debug\netstandard2.0\MyForTasks.pdb
+C:\Users\banan\Desktop\MyForTasks\MyForTasks\obj\Debug\netstandard2.0\MyForTasks.csprojAssemblyReference.cache
+C:\Users\banan\Desktop\MyForTasks\MyForTasks\obj\Debug\netstandard2.0\MyForTasks.AssemblyInfoInputs.cache
+C:\Users\banan\Desktop\MyForTasks\MyForTasks\obj\Debug\netstandard2.0\MyForTasks.AssemblyInfo.cs
+C:\Users\banan\Desktop\MyForTasks\MyForTasks\obj\Debug\netstandard2.0\MyForTasks.csproj.CoreCompileInputs.cache
+C:\Users\banan\Desktop\MyForTasks\MyForTasks\obj\Debug\netstandard2.0\MyForTasks.dll
+C:\Users\banan\Desktop\MyForTasks\MyForTasks\obj\Debug\netstandard2.0\MyForTasks.pdb
