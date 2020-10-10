@@ -115,5 +115,33 @@ namespace MyForTasks
                 Console.WriteLine(i);
             }
         }
+
+        static void For33()
+        {
+            int n;
+            n = Convert.ToInt32(Console.ReadLine());
+            int f1 = 1;
+            int f2 = 1;
+            int f3 = 0;
+            for (int i = 0; i < n - 2; i++)
+            {
+                f3 = f1 + f2;
+                f1 = f2;
+                f2 = f3;
+            }
+            Console.WriteLine(f3);
+        }
+
+        static void For37()
+        {
+            int n;
+            n = Convert.ToInt32(Console.ReadLine());
+            double sum = 0;
+            for(int i = 1; i <= n; i++)
+            {
+                sum += Math.Pow(i, i);
+            }
+            Console.WriteLine(sum);
+        }
     }
 }
