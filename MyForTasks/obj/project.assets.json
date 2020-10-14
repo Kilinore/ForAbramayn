@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\banan\\Desktop\\MyForTasks\\MyForTasks\\MyForTasks.csproj",
+      "projectUniqueName": "C:\\Users\\banan\\Desktop\\ABRAMYAN\\MyForTasks\\MyForTasks\\MyForTasks.csproj",
       "projectName": "MyForTasks",
-      "projectPath": "C:\\Users\\banan\\Desktop\\MyForTasks\\MyForTasks\\MyForTasks.csproj",
+      "projectPath": "C:\\Users\\banan\\Desktop\\ABRAMYAN\\MyForTasks\\MyForTasks\\MyForTasks.csproj",
       "packagesPath": "C:\\Users\\banan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\banan\\Desktop\\MyForTasks\\MyForTasks\\obj\\",
+      "outputPath": "C:\\Users\\banan\\Desktop\\ABRAMYAN\\MyForTasks\\MyForTasks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\banan\\AppData\\Roaming\\NuGet\\NuGet.Config",

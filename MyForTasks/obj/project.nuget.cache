@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K8WHFuqsoPWbEOCHp8R64Ec/a6MEH94zYH6RdKP1w6UynxEFHQEQ75XmhrEJXQ1YXa+u5IBHQv2NT9hSY+U25g==",
+  "dgSpecHash": "9jYRxmzklOVByA4qynpPYrgzY/PVsgih00toWEOys2JXSYo+o7cwS1uc78oaME057faM6XbN3MpnSMcKjdN0ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\banan\\Desktop\\MyForTasks\\MyForTasks\\MyForTasks.csproj",
+  "projectFilePath": "C:\\Users\\banan\\Desktop\\ABRAMYAN\\MyForTasks\\MyForTasks\\MyForTasks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\banan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\banan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
